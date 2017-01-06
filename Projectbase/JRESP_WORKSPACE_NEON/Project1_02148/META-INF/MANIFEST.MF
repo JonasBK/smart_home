@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Project1_02148
+Bundle-SymbolicName: Project1_02148;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.cmg.resp.core;bundle-version="1.0.0"
+Plugin-Required: org.cmp.resp.code
